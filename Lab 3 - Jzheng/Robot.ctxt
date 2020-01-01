@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=mapFileName
+comment1.target=void\ load(java.lang.String)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ turnLeft()
+comment4.params=
+comment4.target=void\ makeLight()
+comment5.params=
+comment5.target=void\ makeDark()
+comment6.params=
+comment6.target=boolean\ onDark()
+comment7.params=
+comment7.target=boolean\ frontIsClear()
+comment8.params=seconds
+comment8.target=void\ setDelay(double)
+numComments=9
